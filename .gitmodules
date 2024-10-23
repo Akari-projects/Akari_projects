@@ -3,3 +3,6 @@
 	url = https://github.com/AkariGroup/akari_motion_server.git
 
 # aa
+[submodule "depthai_handface"]
+	path = depthai_handface
+	url = https://github.com/AkariGroup/depthai_handface
